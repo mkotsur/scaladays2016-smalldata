@@ -27,7 +27,7 @@ object SmallDataJs extends JSApp {
 
       reader.onload = (e: UIEvent) => {
         val contents = reader.result.asInstanceOf[String]
-        val tags = getTags(contents.split("\n"))
+        val tags = SmallData.extractTags(contents.split("\n"))
 
         val bar = Bar[(String, Int)](
           data = tags.map(Seq(_)),
@@ -53,14 +53,5 @@ object SmallDataJs extends JSApp {
 
     body.append(fileSelect)
   }
-
-  private def getTags(lines: Seq[String]): Seq[(String, Int)] =
-    lines.map(_.split(":::"))
-    .flatMap {
-      case Array(topic, tagline) => tagline.split(",\\ ?")
-    }
-    .groupBy(identity)
-    .mapValues(_.size)
-    .toList.sortBy(_._2  * -1)
 
 }
