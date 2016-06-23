@@ -1,3 +1,6 @@
+enablePlugins(ScalaJSPlugin)
+
+
 name := "scaladays2016-smalldata"
 
 version := "1.0"
