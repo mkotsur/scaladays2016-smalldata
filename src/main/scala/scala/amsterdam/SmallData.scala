@@ -2,6 +2,9 @@ package scala.amsterdam
 
 import better.files._
 
+import org.scalajs.dom
+import dom.document
+
 object SmallData extends App {
 
 
