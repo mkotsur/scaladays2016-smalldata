@@ -1,0 +1,50 @@
+Introducing the Scala Center:::community
+Monitoring Reactive Applications:::reactive, monitoring
+Scalan: a reasonably typed meta-programming framework in Scala:::compiler
+Roll Your Own Shapeless:::typelevel
+Lightbend Lagom: Microservices "Just Right":::micro
+Akka.js: Drop Your Actors Outside the JVM Boundaries:::actors
+Machine Learning with Scala on Spark:::big-data
+Dotty Linker: Precise Types Bring Performance:::compiler, dotty
+Build a Recommender System in Apache Spark and Integrate It Using Akka:::big-data
+Principles of Elegance:::advanced-coding
+Connecting Reactive Applications with Fast Data Using Reactive Streams:::reactive
+Scala.js: Beyond the Coast-to-Coast Approach:::js
+Using Actors for the Internet of (Lego) Trains:::actors
+Reactive Microservices with Akka and Docker:::micro
+Transactional Event Sourcing Using Slick (Audit Log for Free!):::event-sourcing
+Perfect Scalability:::performance
+Beyond the Buzzword: A Reactive Web Application in Practice:::reactive
+The Future of Scala Performance on Big Data:::performance, big-data
+Implicits Inspected and Explained:::advanced-coding
+Polymorphic Record Types in a Lifted Embedding:::advanced-coding
+Being Creative with Genetic Algorithms and Typeclasses:::advanced-coding
+@inline and @specialized - What Do They Do? Should I Be Using Them?:::advanced-coding
+Reactors - Road to Composable Distributed Computing:::actors
+Programming with Futures, Lattices, and Quiescence:::advanced-coding, concurrency
+Don't Fear the Implicits: Everything You Need to Know About Typeclasses:::big-data
+Scala: The Unpredicted Lingua Franca for Data Science:::big-data
+Data in Motion: Streaming Static Data Efficiently in Akka Persistence:::cqrs, actors
+Implementing Microservices with Scala and Akka:::micro, actors
+Mastering Scala with IntelliJ IDEA:::tools
+Postcapitalism:::politics
+Typelevel in 2016:::typelevel
+Immutable data stores and CQRS for safety, flexibility and profit:::cqrs
+Dotty Support in IntelliJ IDEA:::tools,compiler, dotty
+Nightmare Before Best Practices:::advanced-condig
+Akka Streams & Reactive Streams in Action:::reactive, actors
+Scala and the JVM as a Big Data Platform - Lessons from Apache Spark:::big-data
+Scala Goes Native:::compiler
+The Structure of Programming Revolutions:::politics
+Scylla, Charybdis, and the mystery of Quill:::dsl
+Deep Learning and NLP with Spark:::spark, big-data
+Deep Dive Into Scala.js Internals:::js
+Distributed Real-Time Stream Processing: Why and How:::reactive
+Beyond Shuffling: Scaling Apache Spark:::spark, big-data
+Swave - a fresh Reactive Streams Implementation:::reactive
+Metaprogramming 2.0:::compiler
+Buying into Scala from the Inside and Out:::advanced-coding
+Async Testing on the JVM and Scala.js:::js
+better-files: Towards a safe, sane I/O library in Scala:::dsl
+Data-centric Metaprogramming:::compiler, data
+One Microservice is No Microservice - They Come in Systems:::micro
