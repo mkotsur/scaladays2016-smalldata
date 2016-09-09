@@ -1,6 +1,6 @@
 package scala.amsterdam
 
-import better.files._
+//import better.files._
 
 object SmallData extends App {
 
